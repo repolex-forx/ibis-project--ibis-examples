@@ -1,0 +1,11 @@
+{
+  "org": "ibis-project",
+  "repo": "ibis-examples",
+  "versions": [
+    {
+      "commit": "0b4cbc3f74c7e2f617f1d107246e22cfb9227833",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:08:12.104101+00:00"
+    }
+  ]
+}
